@@ -1,3 +1,3 @@
 # hello-world
-something new on github
-I am Christian, learning more about programming. 
+Something new on github
+The name is Christian, here to learn more about programming. 
